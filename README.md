@@ -4,7 +4,7 @@
  Esse é meu segundo projeto, realizado em 2022 com o acompanhamento do curso Instituto Proa no qual fiz parte, utilizando HTML, CSS e o JavaScript!
  
  
- Desta vez fiz um site responsivo, fruto do estudo e análise do vídeo “Complete Responsive Hospital Website Design Template Using HTML - CSS - JavaScript || Step By Step” do Mr. Web Designer”com o intuito de me apronfudar cada vez mais na área de Front-end.
+ Desta vez fiz um site responsivo, fruto do estudo e análise do vídeo “Complete Responsive Hospital Website Design Template Using HTML - CSS - JavaScript || Step By Step” do Mr. Web Designer” com o intuito de me apronfudar cada vez mais na área de Front-end.
  
  O Proa foi para mim uma porta de entrada nesse mundo de desenvolvimento de Software, Espero que gostem do projeto.
 
