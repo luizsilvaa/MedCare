@@ -8,7 +8,7 @@
  
  O Proa foi para mim uma porta de entrada nesse mundo de desenvolvimento de Software, Espero que gostem do projeto.
 
- MedCare: [Site do Projeto](https://luizsilvaa.github.io/Loja-de-Inform-tica/)
+ MedCare: [Site do Projeto](https://luizsilvaa.github.io/MedCare/)
 </h4>
 
 ## Tecnologias Utilizadas
@@ -20,11 +20,10 @@
 https://github.com/luizsilvaa/Projetos_Figma/assets/102686075/021da80f-6007-40f9-bf9c-ff81f39c3cd6
 
 ## Hospedagem
-https://luizsilvaa.github.io/Loja-de-Inform-tica/
+https://luizsilvaa.github.io/MedCare/
 
 ## Instituto PROA
 [Plataforma PROA](https://www.proa.org.br/)
-
 
 ## Referência do Projeto: 
 [Hospital Website](https://www.youtube.com/watch?v=m2Sz-43azgw)
